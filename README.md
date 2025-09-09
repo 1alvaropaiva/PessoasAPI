@@ -48,7 +48,7 @@ Modo desenvolvimento (recomendado):
 ```bash
 npm run dev
 ```
-A API estará disponível em https://localhost:3000
+A API estará disponível em http://localhost:3000/
 
 ## Swagger
 
