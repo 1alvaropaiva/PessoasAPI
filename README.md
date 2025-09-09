@@ -29,6 +29,10 @@ git clone https://github.com/1alvaropaiva/PessoasAPI
 ```
 
 ```bash
+cd PessoasAPI
+```
+
+```bash
 npm install
 ```
 
