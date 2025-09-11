@@ -1,6 +1,9 @@
-var express = require("express");
+let express = require("express");
 const setupSwagger = require("./swagger");
-var app = express();
+let app = express();
+let cors = require('cors');
+app.use(cors()); 
+
 
 // middleware para interpretar JSON no corpo da requisição
 app.use(express.json());
